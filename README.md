@@ -1,26 +1,9 @@
 # Website Template for Front-End Development Training
 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Updates](#updates)
-    - [What I Did](#what-i-did)
-    - [Changes](#changes)
-    - [What I'll Do](#what-ill-do)
-  - [Built with](#built-with)
-  - [Planing To](#planing-to)
-- [Author](#author)
-- [Contributes](#contributes)
 
-## Overview
 
-### Screenshot
 
 #### Desktop
 
@@ -48,7 +31,7 @@
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/webSite/).
+- Live Site URL: [Live site URL here](https://mahmoud652000.github.io/website-world/).
 
 ## My process
 
@@ -128,30 +111,6 @@
 - Visual Studio Code.
 - Prepros.
 
-### Planing To
-
-- Upgrade it by Adding Some Features Using JavaScript.
-  - Update 1: I've Made a Function That Makes a Count Down To "Sept 28, 2023 23:59:59" in Latest Events Section.
-  - Update 2: I've Made a Function That Makes a Width Change to be Like a Progress Bar in Our Skills Section and I Made it Increase When I Reach it and Decrease When I Leave it.
-  - Update 3: I've Made a Function That Makes a Count Up in Our Awesome Stats Section to Make an Effect of a Numbers Increases.
-  - Update 4: I've Made a Function That Makes The Dots in Latest Events Section and in Pricing Plans Section it Enters The Section When I Reach it And it Leaves The Section When I Leave it.
-  - Update 5: I've Made a Function That Makes The Header Hidden When You Scroll Down and it Will Show itself Again When You Scroll Up.
-  - Update 6: I've Added a Scroll To Top Button.
-  - Update 7: I've Added Dark Mode Buttons.
-  - UPdate 8: I've Added Change Languages Button.
-- Upgrade it by Adding Another Language.
-  - Update 1: I Searched About it and Found This Website That Helped Me [How to Create a Multilingual Application using JavaScript](https://www.codeproject.com/Tips/1165561/How-to-Create-a-Multilingual-Application-using-Jav).
-  - Update 2: I've Used The Function Provided in The Website Mentioned Above but I Understand Just 10% of it But I Working on it.
-  - Update 3: I've Made The English JSON File and it Worked Right.
-  - Update 4: Mr.[Mohamed Abdallah](https://www.linkedin.com/in/mohamed-abdallah-a94158222/) is a Great Translator and He is Working on The Arabic JSON File Right Now.
-  - Update 5: I've Searched Again and I've Found Another Way With The Same Idea to Add Another Laguage to The Website and I Understood it Perfectly I Will Discuss it in [This Repo](https://github.com/Mohamed-Waled/How-To-Build-Multilingual-Website-Using-JS) Check it Out.
-  - Update 6: I've Made The RTL Styles.
-  - Update 7: I've Made The Change Languages Button.
-  - Update 8: I've Uploaded The Arabic File Thanks to Mr.[Mohamed Abdallah](https://www.linkedin.com/in/mohamed-abdallah-a94158222/) and it works perfectly check it out.
-- Upgrade it by Adding Dark Mode.
-  - Update 1: I've Choosed The Colors of The Dark Mode.
-  - Update 2: I've Searched Till I found a Cool Button For The Dark Mode.
-  - Update 3: The Dark Mode Has Been Launched.
 
 ## Author
 
