@@ -1,6 +1,5 @@
 # Website Template for Front-End Development Training
 
-This is a template made for purpose of training similar to [Elzero Web School Third Template](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Three).
 
 ## Table of contents
 
@@ -156,10 +155,8 @@ This is a template made for purpose of training similar to [Elzero Web School Th
 
 ## Author
 
-- Frontend Mentor - [@Mohamed-Waled](https://www.frontendmentor.io/profile/Mohamed-Waled)
-- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
-- Leet Code - [@MohamedWaled](https://leetcode.com/MohamedWaled/)
+- Frontend Mentor - [@mahmoud elbana](https://github.com/mahmoud652000)
+- Linkedin - [@mahmoud_elbana](https://www.linkedin.com/in/mahmoud-elbana-25473b150?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Contributes
 
-- English Arabic, Arabic English Translator - Mr.[Mohamed Abdallah](https://www.linkedin.com/in/mohamed-abdallah-a94158222/)
